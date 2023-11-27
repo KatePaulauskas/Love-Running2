@@ -184,6 +184,17 @@ main {
     /* Override the heading color set in the general styling */
     color: #fafafa;
 }
+
+/* Gallery page */
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
+#photos {
+    line-height: 0;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
